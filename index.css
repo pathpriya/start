@@ -1,0 +1,28 @@
+p {
+    font-family: "American Typewriter", serif;
+
+}
+
+/*[type="text"] {*/
+/*    background-color: red;*/
+/*}*/
+
+.foo {
+    border: 5px solid Azure;
+}
+
+#email {
+    border: 5px solid purple;
+}
+
+[type="button"] {
+    border: 2px solid blue;
+}
+
+[type="submit"] {
+    border: 2px solid yellow;
+}
+
+[name="name"] {
+    background-color: yellow;
+}
