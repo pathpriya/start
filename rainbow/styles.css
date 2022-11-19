@@ -3,7 +3,6 @@
     --purple-size: calc(var(--circle-thickness) * 2);
     --offset: calc(var(--circle-thickness) * 5);
 
-
     position: relative;
     top: var(--offset);
     left: var(--offset);
